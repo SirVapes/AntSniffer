@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"CN1,CN2";"CONN-SMD_X2026WRS-2X09D-LPSW";2;"X2026WRS-2X09D-LPSW";;;
+2;"S1,S2";"435441019830";2;"435441019830";;;
+3;"J1";"PinHeader_1x11_P2.54mm_Vertical";1;"Conn_01x11_Pin";;;
